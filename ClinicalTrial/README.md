@@ -4,5 +4,5 @@
 
 This project is expected to identify the up-coming intervention on the market in selected indication. 
 
-Usage:
+## Usage
 $ python Select_CT.py "selected_indication"
