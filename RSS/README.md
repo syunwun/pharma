@@ -7,7 +7,6 @@
 4. visualization (display in the PowerBI)
 
 Usage:
+update list (Company, Drug, Indication, Score, Website) if needed
 
 $ python read_rss_daily "your_eamil_address" "your_email_password"
-
-## update list (Company, Drug, Indication, Score, Website) if needed
