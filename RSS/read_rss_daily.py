@@ -893,8 +893,6 @@ for com in comp_uniqu:
     this_comp_score_add = 0
     if company_dic[com] >= 10000:
         this_comp_score_add = 1
-    if com in gbc_candidate_df:
-        this_comp_score_add = 15
     if re.search('Golden Biotechnology',com, flags=re.IGNORECASE):
         this_comp_score_add = 45
     for i, item in enumerate(temp_desc):
