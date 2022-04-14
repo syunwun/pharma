@@ -6,7 +6,7 @@
 3. update database according to the date
 4. visualization (display in the PowerBI)
 
-Usage:
+## Usage
 
 ** update list (Company, Drug, Indication, Score, Website) if needed **
 
